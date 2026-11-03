@@ -2,7 +2,9 @@
 
 I build software for ecommerce and operational teams: AI creative tools, commerce automation, product research and desktop workflows.
 
-My work spans product behavior, full-stack implementation, integrations and validation. I use AI-assisted development with source review and checks against actual behavior. I'm interested in product engineering and full-stack roles at startups.
+**All of my development work presented here was done with AI assistance.** I use AI throughout implementation, debugging and validation. I understand programming and software engineering fundamentals, and use them to define requirements, guide the tools, review changes and check how the software actually behaves. I take responsibility for technical decisions and results.
+
+My work spans product behavior, full-stack implementation, integrations and validation. I'm interested in product engineering and full-stack roles at startups.
 
 ## Selected products
 
