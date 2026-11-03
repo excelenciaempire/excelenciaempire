@@ -16,7 +16,7 @@ My work includes products, prototypes, client websites, integrations and interna
 | [Riverz CRM](https://github.com/excelenciaempire/riverz-crm-showcase) | Merchant-specific commerce assistance, messaging and operational workflows built on wacrm | Product extension |
 | [Radar](https://github.com/excelenciaempire/radar-showcase) | Catalog research, supplier matching, dated stock observations and COD economics | Product |
 | [Rivo](https://github.com/excelenciaempire/rivo-releases) | Windows voice requests, dictation, screen context and desktop assistance | Windows application |
-| [Spediak](https://github.com/excelenciaempire/spediak-showcase) | Mobile/web inspection client with photo and voice input, draft statements and editing | Client application |
+| [Spediak](https://github.com/excelenciaempire/spediak-showcase) | Inspection client with photo/voice input and draft editing; earlier Expo and later web/Capacitor phases | Client application |
 
 ### Related systems and domain adaptations
 
@@ -57,6 +57,10 @@ My work includes products, prototypes, client websites, integrations and interna
 | [Business research and presentation system](portfolio/ai-workflows.md#business-research-and-presentation-system) | A business knowledge base, browser presentations and generated slide decks | Research/documentation work |
 | [Reusable AI workflows](portfolio/ai-workflows.md#reusable-ai-workflows) | Reusable instructions and supporting tools for app building, design and media work | Workflow/tooling library |
 | [Neo](portfolio/ai-workflows.md#neo) | Specialist-agent orchestration, research references and third-party security integrations | Local security toolkit |
+
+## Application screenshots
+
+Original internal-interface galleries are included in the product cases. Additional captures show [Riverz Harness](portfolio/automation.md#riverz-harness-controls), [Riverz Balance](portfolio/web-and-commerce.md#riverz-balance-profitability), [Visualizador](portfolio/web-and-commerce.md#visualizador-architecture-canvas) and [Content Studio](portfolio/ai-workflows.md#content-studio-production-handoff). [Capture provenance](SCREENSHOTS.md) identifies test data and archived versions.
 
 ## Inside Riverz AI
 

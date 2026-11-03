@@ -18,6 +18,14 @@ This work includes original tools and adaptations of existing applications. All 
 
 **Stack and status:** TypeScript, Next.js, Electron and an integrated Python voice companion. The repository contains installer and native-QA documentation. The foundation remains Brops/Bops plus Rivo; the inherited FSL and third-party notices are retained.
 
+### Riverz Harness controls
+
+![Riverz Harness controls](../assets/harness-control-qa.png)
+
+Actual local application QA, October 8, 2026; English/dark interface with isolated test-profile settings and zero recorded usage.
+
+[Capture provenance](../SCREENSHOTS.md)
+
 ## Screenplay
 
 **Work:** A browser/desktop recording tool for repeatable product demonstrations and application-review screencasts. A route is mapped, rehearsed and then recorded.

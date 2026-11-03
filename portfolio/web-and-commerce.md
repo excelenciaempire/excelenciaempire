@@ -10,6 +10,14 @@ These projects cover business applications, a client website, storefront customi
 
 **Stack and status:** Python, JavaScript/HTML/CSS, PostgreSQL/Supabase and Clerk; the earlier application uses SQLite. Implementation and deployment notes exist, but official electronic tax issuance/filing is explicitly disconnected pending the required providers and taxpayer authorization. Private business amounts and credentials are not published.
 
+### Riverz Balance profitability
+
+![Riverz Balance profitability](../assets/balance-profitability-demo.png)
+
+Actual application with Demo · Argentina data, October 6, 2026; native Spanish/light interface. All financial figures are demonstration values.
+
+[Capture provenance](../SCREENSHOTS.md)
+
 ## Nicolas Vehiculos
 
 **Work:** A mobile-oriented automotive lead-qualification website. A guided questionnaire gathers vehicle preference, budget, down payment, timing and financing context.
@@ -41,5 +49,13 @@ These projects cover business applications, a client website, storefront customi
 **My contribution:** Graph data/models, project/view navigation, interaction state, keyboard support and a read-only Content Studio overview with a dated offline snapshot.
 
 **Stack and status:** JavaScript, a web canvas/interface and local read-only integration. The maps distinguish available capabilities from proposed orchestration; navigating the diagram does not execute agents or enable merchant automation.
+
+### Visualizador architecture canvas
+
+![Visualizador architecture canvas](../assets/visualizador-architecture.png)
+
+Archived implemented application, October 7, 2026; English/dark interface. The canvas explains architecture; it does not show live task execution.
+
+[Capture provenance](../SCREENSHOTS.md)
 
 [Full portfolio](../README.md)

@@ -10,6 +10,14 @@ This is part of my development work as well as my product work. Internal tools, 
 
 **Stack and status:** TypeScript/Node.js, external research/media services and Riverz. The repository records local implementation, editorial material and pilot exports. These do not establish a fully unattended daily production pipeline or completed social publishing. Third-party reference material and personal production assets are not published here.
 
+### Content Studio production handoff
+
+![Content Studio production handoff](../assets/content-production-handoff.png)
+
+Archived local application QA, October 4, 2026; Spanish/light interface. The visible item is waiting for a browser session; no completed video or social publication is claimed.
+
+[Capture provenance](../SCREENSHOTS.md)
+
 ## Cerebro MEGA
 
 **Work:** An internal ingestion pipeline that inventories media/documents, processes them with Gemini and builds an indexed knowledge collection.
