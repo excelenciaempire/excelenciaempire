@@ -1,37 +1,39 @@
 # Juan Rios
 
-I build software for ecommerce teams: AI creative tools, commerce automation, and product intelligence.
+I build software for ecommerce and operational teams: AI creative tools, commerce automation, product research and desktop workflows.
 
-My work on **Riverz** spans product workflows, full-stack development, integrations, and validation. I use AI-assisted development with explicit requirements, code review, and checks against actual product behavior.
+My work spans product behavior, full-stack implementation, integrations and validation. I use AI-assisted development with source review and checks against actual behavior. I'm interested in product engineering and full-stack roles at startups.
 
-## Selected work
+## Selected products
 
-### [Riverz — AI creative platform](https://github.com/excelenciaempire/riverz-showcase)
-Product research, creative generation, and video editing in a connected workflow. Web application, desktop development preview, background media processing, and MCP integrations.
+| Product | What I work on | Stack |
+| --- | --- | --- |
+| [Riverz AI](https://github.com/excelenciaempire/riverz-showcase) | Research, creative generation, video editing and a Windows desktop development preview | TypeScript, React, Next.js, PostgreSQL, Electron, FFmpeg |
+| [Riverz CRM](https://github.com/excelenciaempire/riverz-crm-showcase) | Merchant-specific assistants, product context, integrations and human handoff; built on the credited wacrm foundation | TypeScript, Next.js, Supabase, WhatsApp Business API |
+| [Radar](https://github.com/excelenciaempire/radar-showcase) | Catalog research, supplier matching and explicit evidence for commerce decisions | JavaScript, Node.js, Express, SQLite |
+| [Rivo](https://github.com/excelenciaempire/rivo-releases) | Windows voice/dictation and desktop-assistance workflows; public installer releases | Python, Windows UI Automation, speech integrations |
+| [Spediak](https://github.com/excelenciaempire/spediak-showcase) | Inspection observations, media input and reviewable draft statements | React Native, Expo, TypeScript |
 
-**TypeScript · React · Next.js · PostgreSQL · Electron · FFmpeg**
+## Inside Riverz AI
 
-### [Riverz CRM — commerce conversations](https://github.com/excelenciaempire/riverz-crm-showcase)
-Commerce-focused extensions to a WhatsApp CRM: merchant-specific AI assistance, product knowledge, integration recovery, and human handoff. Built on the open-source wacrm foundation, credited in the case study.
+These are five engineering cases from **one product**, with self-contained examples using fictional data:
 
-**TypeScript · React · Next.js · Supabase · WhatsApp Business API**
+1. [Video editing](https://github.com/excelenciaempire/riverz-editor): reversible operations, clip pairing and preserved edits.
+2. [Creative generation](https://github.com/excelenciaempire/riverz-director): exact editorial timing and provider constraints.
+3. [Product research](https://github.com/excelenciaempire/riverz-research): source retention, citations and uncertainty.
+4. [Integrations](https://github.com/excelenciaempire/riverz-integrations-showcase): actor identity, account permissions and revocation.
+5. [Windows desktop](https://github.com/excelenciaempire/riverz-desktop-showcase): local work and conflict-preserving synchronization.
 
-### [Radar — product intelligence](https://github.com/excelenciaempire/radar-showcase)
-Catalog research, supplier matching, and cash-on-delivery unit economics. Keeps observed evidence, proposed matches, and commercial hypotheses distinct.
+The examples are newly written technical illustrations, not the private product implementation. [Compare all five cases](https://github.com/excelenciaempire/riverz-showcase/blob/main/CASES.md).
 
-**JavaScript · Node.js · Express · SQLite**
+## How I approach engineering
 
-## Engineering interests
+I focus on complete business workflows, reliable external actions, explicit failure states and human review where generated content affects a decision. I distinguish a documented feature, a passing isolated check and a verified release.
 
-- Turning a business workflow into a usable product.
-- Reliable integrations: webhooks, retries, recovery, and explicit failure states.
-- AI workflows grounded in stored facts and human review.
-- Media processing and consistency across web and desktop.
+Riverz Dealers and Riverz Ventas are [adaptations of the CRM family](https://github.com/excelenciaempire/riverz-crm-showcase/blob/main/VARIANTS.md). Upstream work and third-party components retain their attribution.
 
-## Get in touch
+## Contact
 
-I'm interested in product engineering and full-stack roles at startups building practical AI and commerce software.
+[Riverz](https://riverzai.com) · [Professional inquiry](https://github.com/excelenciaempire/riverz-showcase/issues/new?title=Professional%20inquiry)
 
-[Riverz](https://riverzai.com) · [Contact](https://github.com/excelenciaempire/riverz-showcase/issues/new?title=Professional%20inquiry)
-
-The linked repositories are public case studies. Product source code remains private.
+The linked case studies are readable without account access. These portfolio repositories contain documentation and explicitly labelled examples, without customer data or private application source.
