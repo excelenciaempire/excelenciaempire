@@ -4,6 +4,8 @@ These projects cover business applications, a client website, storefront customi
 
 ## Riverz Balance and Saldexo
 
+[Functional screenshot tour](visual-tours.md#riverz-balance).
+
 **Work:** The earlier Saldexo/Shopify accounting application synchronizes orders, computes business figures, tracks transfers/expenses and optionally updates a spreadsheet. The same development repository also contains its newer **Riverz Balance** application.
 
 **My contribution:** Evolving the financial model into a multi-business workspace with country/currency-specific settings, profitability and cash views, receipts, ledger entries and business-scoped integrations. This includes separate synchronization and reconciliation workflows, rather than treating every connector as one identical source.
@@ -43,6 +45,8 @@ Actual application with Demo · Argentina data, October 6, 2026; native Spanish/
 **Stack and status:** HTML, CSS, JavaScript and Three.js. The implementation is a separate company-site project; its privacy and hosting settings are not changed by this GitHub portfolio.
 
 ## Visualizador
+
+[Functional screenshot tour](visual-tours.md#visualizador).
 
 **Work:** A bilingual, read-only canvas for explaining application architecture and workflows. It includes draggable cards, pan/zoom, search, a minimap, source references and guided journeys.
 

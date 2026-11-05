@@ -4,6 +4,8 @@ This is part of my development work as well as my product work. Internal tools, 
 
 ## Content Studio
 
+[Functional screenshot tour](visual-tours.md#content-studio).
+
 **Work:** An internal content-production application linking reference research, transcription, original script writing, editorial review, avatar-production handoffs and editing/export in Riverz.
 
 **My contribution:** The workflow and local pilot, source-backed script packages, approval states, production handoffs and integration with the surrounding tools.

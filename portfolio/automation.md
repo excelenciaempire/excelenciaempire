@@ -12,6 +12,8 @@ This work includes original tools and adaptations of existing applications. All 
 
 ## Riverz Harness
 
+[Functional screenshot tour](visual-tours.md#riverz-harness).
+
 **Work:** A separate Windows application combining Brops-derived agent-team workflows, Rivo voice and a persistent operations center for goals, tasks, projects and documents.
 
 **My contribution:** Connecting the team and voice flows, independent application identity/profile, project worktrees, persistent schedules, interruption recovery and review of uncertain external actions.

@@ -1,5 +1,7 @@
 # Work catalog
 
+[Browse the additional application tours](visual-tours.md) for Balance, Visualizador, Content Studio and Riverz Harness. Each main product also has a functional tour inside its repository.
+
 ## Product families
 
 Each product appears once. Modules, related repositories and adaptations are documented inside its case study.
