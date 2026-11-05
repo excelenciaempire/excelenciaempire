@@ -1,40 +1,24 @@
-# Related Riverz systems
+# Product internals and adaptations
 
-These are distinct development workstreams around the products in the [full portfolio](../README.md), with shared foundations identified below.
+These are implementation areas within the product families below.
 
-## Riverz Dealers
+## Riverz CRM
 
-**Work:** An automotive-sales adaptation of Riverz CRM. The application includes vehicle inventory, opportunities per buyer, visits and test drives, follow-up and sales context inside the inbox.
+<a id="riverz-dealers"></a>
+<a id="riverz-ventas"></a>
 
-**My contribution:** Adapting the product model and conversation workflow to vehicles and salespeople, including a Spanish/English interface. It shares Riverz CRM's wacrm-derived foundation; it is not a new CRM engine written from scratch.
+Dealers and Ventas adapt Riverz CRM to automotive sales and internal SaaS sales. Their contributions and shared wacrm foundation are documented in the [CRM variants case](https://github.com/excelenciaempire/riverz-crm-showcase/blob/main/VARIANTS.md).
 
-**Stack and status:** TypeScript, React and Next.js. Private domain-adaptation implementation; this page does not claim a measured sales outcome.
+## Radar
 
-## Riverz Ventas
+<a id="radar-catalog-collection"></a>
+<a id="radar-assistant-connector"></a>
 
-**Work:** A separate sales configuration for selling Riverz services, with qualification, nurturing, appointment setting and an internal operations handoff.
+Catalog collection, the research workspace and read-only assistant access belong to one Radar product. Their implementation is documented in the [Radar system map](https://github.com/excelenciaempire/radar-showcase/blob/main/SYSTEM.md).
 
-**My contribution:** Adapting the shared CRM workflow to software sales and separating sales records from fulfillment. A won deal starts an operations record rather than automatically activating a merchant account.
+## Riverz AI
 
-**Stack and status:** TypeScript and Next.js, using the Riverz CRM/wacrm foundation. An internal SaaS-sales adaptation, not an independent CRM platform.
-
-## Radar catalog collection
-
-**Work:** The data-collection side of Radar: catalog listings, product details, supplier information, observed stock and price history.
-
-**My contribution:** Building the collection/update workflow, persistent observations and scheduled operation that supply Radar. The repository documents a daily VPS process; that source documentation is separate from a new uptime check.
-
-**Stack and status:** Python and catalog data-processing tools. A supporting data system for [Radar](https://github.com/excelenciaempire/radar-showcase), not an additional consumer product. Stock changes remain observations rather than proven sales.
-
-## Radar assistant connector
-
-**Work:** Read-only access to the catalog for AI assistants through MCP, with reusable assistant workflows.
-
-**My contribution:** Wrapping catalog queries and product/supplier context in a tool interface assistants can use, alongside the collection system and Radar's research interface.
-
-**Stack and status:** Python and MCP. This case covers catalog access; it does not present planned full dropshipping operations as delivered functionality.
-
-## Riverz AI UI workspace
+### Riverz AI UI workspace
 
 **Work:** An isolated workspace for redesigning and reviewing Riverz AI's interface using fictional local data. It includes populated, empty, loading, approval and failure scenarios, with Spanish/English views.
 
@@ -42,4 +26,4 @@ These are distinct development workstreams around the products in the [full port
 
 **Stack and status:** React, TypeScript and Next.js. A development/design replica of Riverz AI, not a second deployed product. Original interface code and assets remain related to that same product.
 
-[Full portfolio](../README.md)
+[Work catalog](README.md) · [Selected work](../README.md)
