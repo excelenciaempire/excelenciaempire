@@ -2,8 +2,6 @@
 
 I build ecommerce software, AI-assisted workflows and Windows tools. My focus is product engineering: turning a business problem into an interface, integrations and behavior I can test.
 
-**Authorized to work in the U.S. · Open to relocating to California.**
-
 ## Selected work
 
 | Product | What I work on |
