@@ -1,6 +1,6 @@
 # Additional application tours
 
-These are supporting applications and workspaces in the [work catalog](README.md). Main products have their own tours: [Riverz AI](https://github.com/excelenciaempire/riverz-showcase/blob/main/FEATURES.md), [Riverz CRM](https://github.com/excelenciaempire/riverz-crm-showcase/blob/main/FEATURES.md), [Radar](https://github.com/excelenciaempire/radar-showcase/blob/main/FEATURES.md), [Rivo](https://github.com/excelenciaempire/rivo-releases/blob/main/FEATURES.md) and [Spediak](https://github.com/excelenciaempire/spediak-showcase/blob/main/FEATURES.md).
+These are supporting applications and workspaces in the [work catalog](README.md). Main products have their own tours: [Riverz AI](https://github.com/excelenciaempire/riverz-showcase/blob/main/FEATURES.md), [Riverz CRM](https://github.com/excelenciaempire/riverz-crm-showcase/blob/main/FEATURES.md), [Radar](https://github.com/excelenciaempire/radar-showcase/blob/main/FEATURES.md) and [Rivo](https://github.com/excelenciaempire/rivo-releases/blob/main/FEATURES.md).
 
 The images below are original archived application captures. Native QA state and demonstration data are identified per image.
 

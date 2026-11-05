@@ -12,7 +12,6 @@ Each product appears once. Modules, related repositories and adaptations are doc
 | [Riverz CRM](https://github.com/excelenciaempire/riverz-crm-showcase) | Merchant-specific assistance and commerce workflows; [Dealers and Ventas adaptations](https://github.com/excelenciaempire/riverz-crm-showcase/blob/main/VARIANTS.md), all extending wacrm |
 | [Radar](https://github.com/excelenciaempire/radar-showcase) | Catalog collection, product/supplier research, stock history, COD economics and read-only assistant access in [one system](https://github.com/excelenciaempire/radar-showcase/blob/main/SYSTEM.md) |
 | [Rivo](https://github.com/excelenciaempire/rivo-releases) | Windows voice assistance, dictation, screen context and desktop interaction |
-| [Spediak](https://github.com/excelenciaempire/spediak-showcase) | Inspection-client input, transcription, editable draft statements and earlier Expo/later Capacitor phases |
 
 ## Other applications and client work
 
