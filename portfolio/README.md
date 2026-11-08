@@ -10,7 +10,7 @@ Each product appears once. Modules, related repositories and adaptations are doc
 | --- | --- |
 | [Riverz AI](https://github.com/excelenciaempire/riverz-showcase) | Product/market research, creative generation, video editing, Landing Lab/CRO, integrations and the Windows preview; [UI review workspace](riverz-systems.md#riverz-ai-ui-workspace) |
 | [Riverz CRM](https://github.com/excelenciaempire/riverz-crm-showcase) | Merchant-specific assistance and commerce workflows; [Dealers and Ventas adaptations](https://github.com/excelenciaempire/riverz-crm-showcase/blob/main/VARIANTS.md), all extending wacrm |
-| [Radar](https://github.com/excelenciaempire/radar-showcase) | Catalog collection, product/supplier research, stock history, COD economics and read-only assistant access in [one system](https://github.com/excelenciaempire/radar-showcase/blob/main/SYSTEM.md) |
+| [Raptor](https://github.com/excelenciaempire/radar-showcase) | Catalog collection, product/supplier research, stock history, COD economics and read-only assistant access in [one system](https://github.com/excelenciaempire/radar-showcase/blob/main/SYSTEM.md) |
 | [Rivo](https://github.com/excelenciaempire/rivo-releases) | Windows voice assistance, dictation, screen context and desktop interaction |
 
 ## Other applications and client work

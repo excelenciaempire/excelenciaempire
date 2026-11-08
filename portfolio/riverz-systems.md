@@ -9,12 +9,12 @@ These are implementation areas within the product families below.
 
 Dealers and Ventas adapt Riverz CRM to automotive sales and internal SaaS sales. Their contributions and shared wacrm foundation are documented in the [CRM variants case](https://github.com/excelenciaempire/riverz-crm-showcase/blob/main/VARIANTS.md).
 
-## Radar
+## Raptor
 
 <a id="radar-catalog-collection"></a>
 <a id="radar-assistant-connector"></a>
 
-Catalog collection, the research workspace and read-only assistant access belong to one Radar product. Their implementation is documented in the [Radar system map](https://github.com/excelenciaempire/radar-showcase/blob/main/SYSTEM.md).
+Catalog collection, the research workspace and read-only assistant access belong to one Raptor product. Their implementation is documented in the [Raptor system map](https://github.com/excelenciaempire/radar-showcase/blob/main/SYSTEM.md).
 
 ## Riverz AI
 
