@@ -17,4 +17,6 @@ I build ecommerce software, AI-assisted workflows and Windows tools. My focus is
 
 **All my development work shown here was done with AI assistance.** I use programming fundamentals to define requirements, review code, debug failures and validate behavior. The case studies identify my contribution, upstream credits and development status. Application source remains private.
 
+![AI usage, last 30 days: 32.2B tokens across 1,837 sessions](assets/ai-usage-30-days.png)
+
 [LinkedIn](https://www.linkedin.com/in/juan-diego-rios/) · [X](https://x.com/juandiegorios_) · [Riverz](https://riverzai.com)
